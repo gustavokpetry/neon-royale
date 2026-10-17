@@ -1,0 +1,8 @@
+Neon Royale — atualização 0.2.0 (aplicar por cima da 0.1.0)
+
+No terminal:
+  cd ~/Downloads
+  unzip -o neon-royale-atualizacao-0.2.0.zip
+  cd neon
+  npm run build
+  npm start

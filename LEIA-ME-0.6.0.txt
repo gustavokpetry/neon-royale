@@ -1,0 +1,9 @@
+Neon Royale — atualização 0.6.0 (acumulada: aplica por cima de qualquer versão 0.1.0 ou mais nova)
+
+1. No terminal do jogo: Ctrl + C
+2. cd ~/Downloads
+3. unzip -o neon-royale-atualizacao-0.6.0.zip
+4. cd neon
+5. npm run build
+6. npm start   (precisa mostrar: Neon Royale v0.6.0)
+7. No celular: feche a aba do jogo e abra de novo.
