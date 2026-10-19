@@ -20,7 +20,7 @@ import { enderecosRedeLocal } from './rede';
 import { rngServidor } from './rng';
 import { ErroSala, Salas, type Sala } from './salas';
 
-export const VERSAO = '0.16.1';
+export const VERSAO = '0.16.2';
 type Io = Server<EventosClienteServidor, EventosServidorCliente>;
 type Sock = Socket<EventosClienteServidor, EventosServidorCliente>;
 

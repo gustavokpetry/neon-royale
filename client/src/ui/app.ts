@@ -8,7 +8,7 @@ import { Entrada, MiraToque, ehToque } from '../controls/entrada';
 import { Conexao, type EstadoConexao } from '../network/conexao';
 import { abrirArena, arena, fecharArena } from '../scenes/montar';
 import { ICONES, ICONE_ARMA, ICONE_ATIVA, ICONE_MODO, ICONE_PASSIVA } from './icones';
-import { CORES_EQUIPE, MODOS_EQUIPE, MODOS_TROCA, type ModoJogo } from '@shared/protocolo';
+import { CORES_EQUIPE, MODOS, MODOS_EQUIPE, MODOS_TROCA, type ModoJogo } from '@shared/protocolo';
 import type { Placar } from '../scenes/Arena';
 import { copiarTexto, esc, lerPreferencias, salvarPreferencias } from './util';
 import { alternarMudo, estaMudo, tocar } from '../audio/som';
@@ -151,7 +151,7 @@ function render(): void {
     menu: () => `
       <main class="menu">
         <h1 class="logo"><span class="l1">NEON</span><span class="l2">ROYALE</span></h1>
-        <p class="sub">${LISTA_PERSONAGENS.length} personagens · ${LISTA_MAPAS.length} mapas · 3 modos</p>
+        <p class="sub">${LISTA_PERSONAGENS.length} personagens · ${LISTA_MAPAS.length} mapas · ${MODOS.length} modos</p>
         ${aviso}
         <nav>
           <button data-ir="criar" class="primario">${ICONES.mais} Criar sala</button>

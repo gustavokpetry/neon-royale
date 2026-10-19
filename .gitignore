@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+# Gerado por `npm run data:import` a partir de data/*.csv
+
+# Prévias geradas por tools/extrair_mapa.py
+tools/saida/

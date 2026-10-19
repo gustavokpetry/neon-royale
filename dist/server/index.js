@@ -3398,7 +3398,7 @@ var Salas = class {
 };
 
 // server/src/index.ts
-var VERSAO = "0.16.1";
+var VERSAO = "0.16.2";
 function origemPermitida(origem, host) {
   if (!origem) return true;
   try {

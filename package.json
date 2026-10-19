@@ -1,6 +1,6 @@
 {
   "name": "neon-royale",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "private": true,
   "description": "Battle royale neon minimalista — multiplayer em rede local pelo navegador",
   "type": "module",

@@ -2,7 +2,6 @@
  * Movimento livre com colisão círculo × blocos sólidos: empurra pela menor distância,
  * então o personagem desliza em paredes e cantos. Determinístico (servidor e cliente iguais).
  */
-//a
 import { CONFIG } from './config';
 import { BLOCO, bloco, type Mapa } from './mapa';
 

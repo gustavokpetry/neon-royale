@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 790" width="940" height="790">
+  <defs><filter id="brilho" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="100%" height="100%" rx="20" fill="#0f1115"/>
+  <g>
+    <rect x="29" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#ff2e4d" stroke-opacity=".35"/>
+    <circle cx="95" cy="74" r="30" fill="none" stroke="#ff2e4d" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="95" cy="74" r="26" fill="#000" stroke="#ff2e4d" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="95" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ff2e4d">Veni</text>
+    <text x="95" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Arco explosivo</text>
+  </g><g>
+    <rect x="179" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#ffd21f" stroke-opacity=".35"/>
+    <circle cx="245" cy="74" r="30" fill="none" stroke="#ffd21f" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="245" cy="74" r="26" fill="#000" stroke="#ffd21f" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="245" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ffd21f">Gut</text>
+    <text x="245" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Espada de fogo</text>
+  </g><g>
+    <rect x="329" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#f2f6ff" stroke-opacity=".35"/>
+    <circle cx="395" cy="74" r="30" fill="none" stroke="#f2f6ff" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="395" cy="74" r="26" fill="#000" stroke="#f2f6ff" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="395" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#f2f6ff">Vini</text>
+    <text x="395" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Canhão de tinta</text>
+  </g><g>
+    <rect x="479" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#ff8a00" stroke-opacity=".35"/>
+    <circle cx="545" cy="74" r="30" fill="none" stroke="#ff8a00" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="545" cy="74" r="26" fill="#000" stroke="#ff8a00" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="545" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ff8a00">Daniel</text>
+    <text x="545" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Guarda-chuva</text>
+  </g><g>
+    <rect x="629" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#a6ff2e" stroke-opacity=".35"/>
+    <circle cx="695" cy="74" r="30" fill="none" stroke="#a6ff2e" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="695" cy="74" r="26" fill="#000" stroke="#a6ff2e" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="695" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#a6ff2e">Lucas</text>
+    <text x="695" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Raios elétricos</text>
+  </g><g>
+    <rect x="779" y="24" width="132" height="138" rx="16" fill="#13161c" stroke="#19d3e6" stroke-opacity=".35"/>
+    <circle cx="845" cy="74" r="30" fill="none" stroke="#19d3e6" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="845" cy="74" r="26" fill="#000" stroke="#19d3e6" stroke-width="4" filter="url(#brilho)"/>
+    
+    <text x="845" y="130" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#19d3e6">Pacheco</text>
+    <text x="845" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Mangueira</text>
+  </g><g>
+    <rect x="29" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#9b5cff" stroke-opacity=".35"/>
+    <circle cx="95" cy="224" r="30" fill="none" stroke="#9b5cff" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="95" cy="224" r="26" fill="#000" stroke="#9b5cff" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="95,217 101,229 89,229" fill="#9b5cff"/>
+    <text x="95" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#9b5cff">Sombra</text>
+    <text x="95" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Adagas</text>
+  </g><g>
+    <rect x="179" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#ff2fb4" stroke-opacity=".35"/>
+    <circle cx="245" cy="224" r="30" fill="none" stroke="#ff2fb4" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="245" cy="224" r="26" fill="#000" stroke="#ff2fb4" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="243" y="217" width="4" height="14" fill="#ff2fb4"/><rect x="238" y="222" width="14" height="4" fill="#ff2fb4"/>
+    <text x="245" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ff2fb4">Vampiro</text>
+    <text x="245" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Seringa</text>
+  </g><g>
+    <rect x="329" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#3d6bff" stroke-opacity=".35"/>
+    <circle cx="395" cy="224" r="30" fill="none" stroke="#3d6bff" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="395" cy="224" r="26" fill="#000" stroke="#3d6bff" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="390" y="219" width="10" height="10" fill="#3d6bff"/>
+    <text x="395" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#3d6bff">Engenheiro</text>
+    <text x="395" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Pistola de pregos</text>
+  </g><g>
+    <rect x="479" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#c0c8d8" stroke-opacity=".35"/>
+    <circle cx="545" cy="224" r="30" fill="none" stroke="#c0c8d8" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="545" cy="224" r="26" fill="#000" stroke="#c0c8d8" stroke-width="4" filter="url(#brilho)"/>
+    <circle cx="545" cy="224" r="6" fill="none" stroke="#c0c8d8" stroke-width="2.5"/>
+    <text x="545" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#c0c8d8">Pescador</text>
+    <text x="545" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Rede</text>
+  </g><g>
+    <rect x="629" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#00c98d" stroke-opacity=".35"/>
+    <circle cx="695" cy="224" r="30" fill="none" stroke="#00c98d" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="695" cy="224" r="26" fill="#000" stroke="#00c98d" stroke-width="4" filter="url(#brilho)"/>
+    <circle cx="695" cy="224" r="4" fill="#00c98d"/>
+    <text x="695" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#00c98d">Gravidade</text>
+    <text x="695" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Orbe</text>
+  </g><g>
+    <rect x="779" y="174" width="132" height="138" rx="16" fill="#13161c" stroke="#e08a4f" stroke-opacity=".35"/>
+    <circle cx="845" cy="224" r="30" fill="none" stroke="#e08a4f" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="845" cy="224" r="26" fill="#000" stroke="#e08a4f" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="845,217 851,224 845,231 839,224" fill="#e08a4f"/>
+    <text x="845" y="280" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#e08a4f">Ilusionista</text>
+    <text x="845" y="300" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Bumerangue</text>
+  </g><g>
+    <rect x="29" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#2a9bb0" stroke-opacity=".35"/>
+    <circle cx="95" cy="374" r="30" fill="none" stroke="#2a9bb0" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="95" cy="374" r="26" fill="#000" stroke="#2a9bb0" stroke-width="4" filter="url(#brilho)"/>
+    <path d="M90 369L100 379M90 379L100 369" stroke="#2a9bb0" stroke-width="3"/>
+    <text x="95" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#2a9bb0">Atirador</text>
+    <text x="95" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Rifle</text>
+  </g><g>
+    <rect x="179" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#8ea33a" stroke-opacity=".35"/>
+    <circle cx="245" cy="374" r="30" fill="none" stroke="#8ea33a" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="245" cy="374" r="26" fill="#000" stroke="#8ea33a" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="240" y="369" width="10" height="10" fill="#8ea33a"/>
+    <text x="245" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#8ea33a">Granadeiro</text>
+    <text x="245" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Granada</text>
+  </g><g>
+    <rect x="329" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#d8c39a" stroke-opacity=".35"/>
+    <circle cx="395" cy="374" r="30" fill="none" stroke="#d8c39a" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="395" cy="374" r="26" fill="#000" stroke="#d8c39a" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="388" y="372" width="14" height="4" fill="#d8c39a"/>
+    <text x="395" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#d8c39a">Armadilheiro</text>
+    <text x="395" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Besta</text>
+  </g><g>
+    <rect x="479" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#9fe6ff" stroke-opacity=".35"/>
+    <circle cx="545" cy="374" r="30" fill="none" stroke="#9fe6ff" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="545" cy="374" r="26" fill="#000" stroke="#9fe6ff" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="545,367 551,374 545,381 539,374" fill="#9fe6ff"/>
+    <text x="545" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#9fe6ff">Gelo</text>
+    <text x="545" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Cristais</text>
+  </g><g>
+    <rect x="629" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#4fd12c" stroke-opacity=".35"/>
+    <circle cx="695" cy="374" r="30" fill="none" stroke="#4fd12c" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="695" cy="374" r="26" fill="#000" stroke="#4fd12c" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="695,367 701,379 689,379" fill="#4fd12c"/>
+    <text x="695" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#4fd12c">Veneno</text>
+    <text x="695" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Zarabatana</text>
+  </g><g>
+    <rect x="779" y="324" width="132" height="138" rx="16" fill="#13161c" stroke="#ff6ec7" stroke-opacity=".35"/>
+    <circle cx="845" cy="374" r="30" fill="none" stroke="#ff6ec7" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="845" cy="374" r="26" fill="#000" stroke="#ff6ec7" stroke-width="4" filter="url(#brilho)"/>
+    <path d="M840 369L850 379M840 379L850 369" stroke="#ff6ec7" stroke-width="3"/>
+    <text x="845" y="430" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ff6ec7">Hacker</text>
+    <text x="845" y="450" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Pistola de pulso</text>
+  </g><g>
+    <rect x="29" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#e0b84a" stroke-opacity=".35"/>
+    <circle cx="95" cy="524" r="30" fill="none" stroke="#e0b84a" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="95" cy="524" r="26" fill="#000" stroke="#e0b84a" stroke-width="4" filter="url(#brilho)"/>
+    <circle cx="95" cy="524" r="6" fill="none" stroke="#e0b84a" stroke-width="2.5"/>
+    <text x="95" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#e0b84a">Relojoeiro</text>
+    <text x="95" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Ponteiros</text>
+  </g><g>
+    <rect x="179" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#b3122e" stroke-opacity=".35"/>
+    <circle cx="245" cy="524" r="30" fill="none" stroke="#b3122e" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="245" cy="524" r="26" fill="#000" stroke="#b3122e" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="243" y="517" width="4" height="14" fill="#b3122e"/><rect x="238" y="522" width="14" height="4" fill="#b3122e"/>
+    <text x="245" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#b3122e">Berserker</text>
+    <text x="245" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Machado</text>
+  </g><g>
+    <rect x="329" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#9b6a3c" stroke-opacity=".35"/>
+    <circle cx="395" cy="524" r="30" fill="none" stroke="#9b6a3c" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="395" cy="524" r="26" fill="#000" stroke="#9b6a3c" stroke-width="4" filter="url(#brilho)"/>
+    <circle cx="395" cy="524" r="4" fill="#9b6a3c"/>
+    <text x="395" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#9b6a3c">Domador</text>
+    <text x="395" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Estilingue</text>
+  </g><g>
+    <rect x="479" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#a9c6e8" stroke-opacity=".35"/>
+    <circle cx="545" cy="524" r="30" fill="none" stroke="#a9c6e8" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="545" cy="524" r="26" fill="#000" stroke="#a9c6e8" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="538" y="522" width="14" height="4" fill="#a9c6e8"/>
+    <text x="545" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#a9c6e8">Espelho</text>
+    <text x="545" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Cacos</text>
+  </g><g>
+    <rect x="629" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#5c7cfa" stroke-opacity=".35"/>
+    <circle cx="695" cy="524" r="30" fill="none" stroke="#5c7cfa" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="695" cy="524" r="26" fill="#000" stroke="#5c7cfa" stroke-width="4" filter="url(#brilho)"/>
+    <path d="M690 519L700 529M690 529L700 519" stroke="#5c7cfa" stroke-width="3"/>
+    <text x="695" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#5c7cfa">Ninja</text>
+    <text x="695" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Shuriken</text>
+  </g><g>
+    <rect x="779" y="474" width="132" height="138" rx="16" fill="#13161c" stroke="#8c96a8" stroke-opacity=".35"/>
+    <circle cx="845" cy="524" r="30" fill="none" stroke="#8c96a8" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="845" cy="524" r="26" fill="#000" stroke="#8c96a8" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="840" y="519" width="10" height="10" fill="#8c96a8"/>
+    <text x="845" y="580" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#8c96a8">Tanque</text>
+    <text x="845" y="600" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Canhão</text>
+  </g><g>
+    <rect x="29" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#7dffcf" stroke-opacity=".35"/>
+    <circle cx="95" cy="674" r="30" fill="none" stroke="#7dffcf" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="95" cy="674" r="26" fill="#000" stroke="#7dffcf" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="93" y="667" width="4" height="14" fill="#7dffcf"/><rect x="88" y="672" width="14" height="4" fill="#7dffcf"/>
+    <text x="95" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#7dffcf">Médico</text>
+    <text x="95" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Dardo</text>
+  </g><g>
+    <rect x="179" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#ff7f50" stroke-opacity=".35"/>
+    <circle cx="245" cy="674" r="30" fill="none" stroke="#ff7f50" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="245" cy="674" r="26" fill="#000" stroke="#ff7f50" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="245,667 251,679 239,679" fill="#ff7f50"/>
+    <text x="245" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ff7f50">Caçador</text>
+    <text x="245" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Boleadeira</text>
+  </g><g>
+    <rect x="329" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#d7a6ff" stroke-opacity=".35"/>
+    <circle cx="395" cy="674" r="30" fill="none" stroke="#d7a6ff" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="395" cy="674" r="26" fill="#000" stroke="#d7a6ff" stroke-width="4" filter="url(#brilho)"/>
+    <rect x="388" y="672" width="14" height="4" fill="#d7a6ff"/>
+    <text x="395" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#d7a6ff">Laserista</text>
+    <text x="395" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Feixe</text>
+  </g><g>
+    <rect x="479" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#00e5c0" stroke-opacity=".35"/>
+    <circle cx="545" cy="674" r="30" fill="none" stroke="#00e5c0" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="545" cy="674" r="26" fill="#000" stroke="#00e5c0" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="545,667 551,674 545,681 539,674" fill="#00e5c0"/>
+    <text x="545" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#00e5c0">Trocador</text>
+    <text x="545" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Bolhas</text>
+  </g><g>
+    <rect x="629" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#ffb3c7" stroke-opacity=".35"/>
+    <circle cx="695" cy="674" r="30" fill="none" stroke="#ffb3c7" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="695" cy="674" r="26" fill="#000" stroke="#ffb3c7" stroke-width="4" filter="url(#brilho)"/>
+    <circle cx="695" cy="674" r="6" fill="none" stroke="#ffb3c7" stroke-width="2.5"/>
+    <text x="695" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ffb3c7">Bardo</text>
+    <text x="695" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Notas</text>
+  </g><g>
+    <rect x="779" y="624" width="132" height="138" rx="16" fill="#13161c" stroke="#ffe9a8" stroke-opacity=".35"/>
+    <circle cx="845" cy="674" r="30" fill="none" stroke="#ffe9a8" stroke-width="10" stroke-opacity=".18"/>
+    <circle cx="845" cy="674" r="26" fill="#000" stroke="#ffe9a8" stroke-width="4" filter="url(#brilho)"/>
+    <polygon points="845,667 851,674 845,681 839,674" fill="#ffe9a8"/>
+    <text x="845" y="730" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17" font-weight="800" fill="#ffe9a8">Astro</text>
+    <text x="845" y="750" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="11" fill="#8a93a6">Estrela cadente</text>
+  </g>
+</svg>
